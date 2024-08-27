@@ -1,2 +1,2 @@
 // index.js
-export { default as Button } from "./src/components/button/button";
+export { default as MyComponent } from "./src/components/MyComponent";
