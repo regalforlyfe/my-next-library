@@ -1,0 +1,11 @@
+{
+    "name": "my-next-library",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "build": "echo \"No build script specified\""
+    },
+    "dependencies": {
+        "react": "^18.0.0"
+    }
+}
